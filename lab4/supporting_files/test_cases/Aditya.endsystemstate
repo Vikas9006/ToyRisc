@@ -1,0 +1,4 @@
+Number of instructions executed = 555
+Number of cycles taken = 555
+Number of stalls of OF = 98
+Number of wrong branch taken = 88
